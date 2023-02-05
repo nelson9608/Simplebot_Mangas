@@ -1,1 +1,1 @@
-web: chmod +x ./start.sh && ./start.sh
+bash ./heroku.sh
