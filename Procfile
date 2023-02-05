@@ -1,1 +1,1 @@
-bash ./heroku.sh
+bash heroku.sh
