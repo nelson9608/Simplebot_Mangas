@@ -1,0 +1,9 @@
+psycopg2-binary>=2.9.3
+
+git+https://github.com/adbenitez/simplebot_manga@master#simplebot-manga
+
+flask
+pyTelegramBotAPI
+
+# required by admin.py plugin
+psutil
