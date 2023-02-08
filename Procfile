@@ -1,1 +1,2 @@
-bash heroku.sh
+web: chmod +x ./heroku.sh && ./heoku.sh
+
